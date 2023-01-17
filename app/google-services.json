@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283090257211",
+    "project_id": "nxt-messaging",
+    "storage_bucket": "nxt-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283090257211:android:92879ede842048a018e31e",
+        "android_client_info": {
+          "package_name": "com.example.nxt_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283090257211-g06ue3u4qe99n86ggujfmuvigmjq146h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGYJwykD8gMxb_t0EWw8ByKsQz6d9Pus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283090257211-g06ue3u4qe99n86ggujfmuvigmjq146h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
